@@ -1,2 +1,0 @@
-# RMA-Simulator
- Simulador RMA
